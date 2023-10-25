@@ -1,0 +1,14 @@
+procedimentos
+ 
+
+1 - criar as entidades 
+
+  // primeira foi a de departamento que é a menor, que leva so o nome do departamento como argumento
+
+  // segunda é o Horas de contrato Hourscontract
+
+  // criar a a classe que é a mae por ultimo como a classe worker
+
+  // via de regra, quando tiver um apropriedade com lista ou de 1 para muitos, nao se coloca no construtor
+
+  // se tem lista coloque metodos com lista de add e remove 
