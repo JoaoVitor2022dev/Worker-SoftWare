@@ -17,7 +17,7 @@ namespace Primeiro.Entities
 
         public double TotalValue()
         {
-            return Date * ValuePeHour;
+            return Hours * ValuePeHour;
         }
     }
 }

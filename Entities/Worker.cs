@@ -10,7 +10,7 @@ namespace Primeiro.Entities
         public WorkerLevel Level { get; set; }
         public double BaseSalary { get; set; }
         public Department Department { get; set; }
-        public List<Hourscontract> Contract { get; set; } new List<Hourscontract>(); 
+        public List<Hourscontract> Contract { get; set; } = new List<Hourscontract>(); 
         
         public Worker(string name, WorkerLevel level, double baseSalary, Department department)
         {
